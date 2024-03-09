@@ -5,8 +5,6 @@ Smart Contract
 Liquidity provider
 smart contract for liquidty provider code
 
-
-
 Refer:
 https://betterprogramming.pub/uniswap-smart-contract-breakdown-ea20edf1a0ff
 
@@ -15,3 +13,12 @@ https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/
 
 https://github.com/yoshidan/anchor-liquidity-pool
 
+
+
+
+-----------------
+
+following line added in emergency fix1
+
+
+-----------------
